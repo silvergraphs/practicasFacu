@@ -18,8 +18,3 @@ def calcular():
     pass
     
 calcular()
-
-
-
-
-
